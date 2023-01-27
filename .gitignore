@@ -1,0 +1,9 @@
+cuda_9.0.176_384.81_linux-run
+dev_data/val_rs-20230102T021720Z-001.zip
+dev_data/val_rs/*.JPEG
+!dev_data/val_rs/ILSVRC2012_val_00033515.JPEG
+model/*
+models/*
+!models/adv_inception_v3_rename.ckpt.index
+dev_data/result
+!dev_data/result/ILSVRC2012_val_00033515.JPEG
